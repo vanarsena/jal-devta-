@@ -1,4 +1,4 @@
-Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24
+
 S. No.,State,District,Location,Longitude,Latitude,Year,pH,EC (µS/cm at),CO3 (mg/L),HCO3,Cl (mg/L),F (mg/L),SO4,NO3,PO4,Total Hardness,Ca (mg/L),Mg (mg/L),Na (mg/L),K (mg/L),Fe (ppm),As (ppb),U (ppb)
 7560,Uttar Pradesh,Agra,Block Office,77.7462,27.1774,2023,8.14,5850,0,500,1594,1.72,454,18,-,1390,176,228,851,6,0.00,0.00,17.00
 7561,Uttar Pradesh,Agra,Raunakata,77.8734,27.2341,2023,8.00,4923,0,488,760,0.70,1091,37,-,790,124,115,891,3,0.31,0.00,9.61
