@@ -20,8 +20,9 @@ if user_input:
     if not results.empty:
         for index, row in results.iterrows():
             st.subheader(f"📍 {row['Location']} ({row['District']})")
+            
 
-            st.write({
+            st.write("DEBUG: Columns found in CSV:", df.columns.tolist())
                 "Year": row["Year"],
                 "Latitude": row["Latitude"],
                 "Longitude": row["Longitude"],
